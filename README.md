@@ -1,4 +1,4 @@
-# Private School Project - Part A
+#Java Console Application School Data Management - Part A
 
 The development of this project includes the implementation of a private school structure. 
 
